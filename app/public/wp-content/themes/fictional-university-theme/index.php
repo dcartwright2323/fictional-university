@@ -1,1 +1,1 @@
-This is our amazing custome theme
+This is our completely git amazing custom theme
